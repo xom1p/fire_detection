@@ -1,6 +1,7 @@
 streamlit
 openvino
 numpy==1.26.4
-matplotlib==3.9.1
+moviepy==1.0.3
+ultralytics
 opencv-python-headless==4.10.0.84
 streamlit-camera-input-live==0.2.0
