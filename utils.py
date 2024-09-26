@@ -4,7 +4,7 @@ import numpy as np
 import glob
 from ultralytics.utils.plotting import colors
 
-model_path = './models/best.xml' #/mount/src/ai_fire_safety_project
+model_path = './best_openvino_model/best.xml' #/mount/src/ai_fire_safety_project
 
 core = ov.Core()
 
